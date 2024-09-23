@@ -1,8 +1,9 @@
-# Forbes-richest-people-Description: **Exploring the Forbes Billionaires Dataset**
+Forbes-richest-people-
+#Description: **Exploring the Forbes Billionaires Dataset**
 
 This project focuses on analyzing the **Forbes Billionaires Dataset**, which contains detailed information on 2,755 of the world’s wealthiest individuals. The aim of this project is to uncover insights, trends, and patterns that can shed light on the characteristics of billionaires, such as their **net worth**, **age**, **country of origin**, and **industry**.
 
-Through*Exploratory Data Analysis (EDA)** on a dataset containing information about the world’s billionaires, such as their **Net Worth**, **Age**, **Country**, **Industry**, etc. The goal is to uncover key insights, patterns, and trends about these billionaires. The EDA is structured into two main parts:
+Through**Exploratory Data Analysis (EDA)** on a dataset containing information about the world’s billionaires, such as their **Net Worth**, **Age**, **Country**, **Industry**, etc. The goal is to uncover key insights, patterns, and trends about these billionaires. The EDA is structured into two main parts:
 
 1. **Univariate Analysis** – Analyzing one variable at a time to understand its distribution and key statistics.
 
